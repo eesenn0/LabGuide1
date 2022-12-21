@@ -1,1 +1,1 @@
-# LabGuide1
+# LabGuide
